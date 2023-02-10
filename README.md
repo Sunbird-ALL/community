@@ -1,4 +1,4 @@
-# Sunbird Assisted Language Learning (ALL) Overview
+# Overview
 
 ## What's Sunbird ALL?
 
