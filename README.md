@@ -1,8 +1,8 @@
 # Overview
 
-## What's Sunbird ALL?
+## What's The Assited Language Learning Initiative?
 
-Sunbird ALL aims to use AI technologies to enable assisted language learning for various Indian languages. 
+The ALL is an Initiative aimed at enhancing the reading and speaking abilities in mother tongue and english  using technology, leveraging science of learning, and advanced AI techniques.
 
 ![Assisted Language Learning](https://user-images.githubusercontent.com/673176/214280744-e8097ba9-e339-491b-bfaf-c210c418ede4.jpg)
  
